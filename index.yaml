@@ -6,6 +6,7 @@ mixin:
   - clang.mixin
   - clang-libcxx.mixin
   - compile-commands.mixin
+  - console-direct.mixin
   - coverage.mixin
   - gold.mixin
   - instrument-functions.mixin

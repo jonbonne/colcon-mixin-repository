@@ -1,0 +1,12 @@
+{
+    "build": {
+        "console-direct": {
+            "event-handlers": ["console_direct+"]
+        }
+    },
+    "test": {
+        "console_direct": {
+            "event-handlers": ["console_direct+"]
+        }
+    }
+}
